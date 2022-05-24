@@ -17,3 +17,6 @@ git config --global user.email ваша почта@example.com
 - **git checkout** – переход от одного коммита к другому
 - **git checkout master** – вернуться к актуальному состоянию и продолжить работу
 - **git diff** – увидеть разницу между текущим файлом и закоммиченным файлом
+# ***Синтаксис языка Markdown***
+Справочник по Markdown от Microsoft:
+https://docs.microsoft.com/ru-ru/contribute/markdown-reference
