@@ -31,7 +31,11 @@ https://docs.microsoft.com/ru-ru/contribute/markdown-reference
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 делаю какой-то странныё тест
+=======
+# ***Вроде всё!*** 
+>>>>>>> lost_branch
 =======
 # ***Вроде всё!*** 
 >>>>>>> lost_branch
